@@ -1,0 +1,28 @@
+{
+  "name": "fine-tracker",
+  "version": "1.0.0",
+  "description": "The project helps to manage a company's employee database.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shimna-puthanayil/fine-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shimna-puthanayil/fine-tracker/issues"
+  },
+  "homepage": "https://github.com/shimna-puthanayil/fine-tracker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.6.0"
+  }
+}
