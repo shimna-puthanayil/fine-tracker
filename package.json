@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/shimna-puthanayil/fine-tracker#readme",
   "dependencies": {
-    "hide-secrets": "^2.0.0",
+    "figlet": "^1.6.0",
     "inquirer": "^8.2.4",
     "mysql2": "^3.6.0"
   }
