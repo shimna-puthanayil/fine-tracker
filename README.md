@@ -23,6 +23,13 @@ This command-line application manages a company's employee database and thus hel
 
 This application is created using Node.js and npm packages inquirer, MySQL2 ,chalk and figlet. The CLI is built using inquirer and the title of application is created using the chalk and figlet. The MySQL2 package is used to connect with the MySQL database and perform the queries.
 
+## Table of Contents
+
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Credits](#credits)
+  
 ## Installation
 
 - Install Node.js v16 
