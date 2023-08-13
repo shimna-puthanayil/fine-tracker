@@ -87,12 +87,11 @@ When the application is run the user is prompted to select one of the options fr
 
 #### Link to walkthrough video :
 
-https://drive.google.com/file/d/1tAKI6c1zHJbQcftADAqneY5dya-_zyKd/view
+https://drive.google.com/file/d/1CLPvazw7rF7lFSjNklsBKUVI87tqmnJu/view?usp=sharing
 
 
 The following images show the application's appearance and functionality :
 
-[![ET 1](./assets/images/employee-tracker.gif)](https://drive.google.com/file/d/1tAKI6c1zHJbQcftADAqneY5dya-_zyKd/view)
 ![ET 2](./assets/images/employeeTracker1.png)
 ![ET 3](./assets/images/employeeTracker2.png)
 ![ET 4](./assets/images/employeeTracker3.png)
