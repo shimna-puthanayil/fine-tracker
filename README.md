@@ -26,6 +26,7 @@ This application is created using Node.js and npm packages inquirer, MySQL2 ,cha
 ## Installation
 
 - Install Node.js v16 
+- Install MySQL Server
 - Clone the Repository from GitHub
 - Install  necessary dependencies running the following command :
 
@@ -85,10 +86,11 @@ https://drive.google.com/file/d/1tAKI6c1zHJbQcftADAqneY5dya-_zyKd/view
 The following images show the application's appearance and functionality :
 
 [![ET 1](./assets/images/employee-tracker.gif)](https://drive.google.com/file/d/1tAKI6c1zHJbQcftADAqneY5dya-_zyKd/view)
-![ET 2](./assets/images/employee-tracker1.png)
-![ET 3](./assets/images/employee-tracker2.png)
-![ET 4](./assets/images/employee-tracker3.png)
-![ET 5](./assets/images/employee-tracker4.png)
+![ET 2](./assets/images/employeeTracker1.png)
+![ET 3](./assets/images/employeeTracker2.png)
+![ET 4](./assets/images/employeeTracker3.png)
+![ET 5](./assets/images/employeeTracker4.png)
+![ET 6](./assets/images/employeeTracker5.png)
 
 ## Credits
 
