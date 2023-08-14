@@ -40,6 +40,7 @@ This application is created using Node.js and npm packages inquirer, MySQL2 ,cha
   ```
   npm i 
   ```
+- Login into MySQL Server and execute the command source db/schema.sql in the shell to create database. 
 
 ## Usage
 
